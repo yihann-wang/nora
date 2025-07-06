@@ -1,0 +1,5 @@
+assets: /data/yangyi/nora/LIBERO/libero/libero/./assets
+bddl_files: /data/yangyi/nora/LIBERO/libero/libero/./bddl_files
+benchmark_root: /data/yangyi/nora/LIBERO/libero/libero
+datasets: /data/yangyi/nora/LIBERO/libero/libero/../datasets
+init_states: /data/yangyi/nora/LIBERO/libero/libero/./init_files
