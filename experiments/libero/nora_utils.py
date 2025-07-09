@@ -14,7 +14,7 @@ class Nora:
     _ACTION_TOKEN_MIN = 151665
     _ACTION_TOKEN_MAX = 153712
 
-    cache_dir = "/data/yangyi/.cache"
+    cache_dir = "/data/syh/.cache"
 
     def __init__(
         self,
@@ -64,11 +64,20 @@ class Nora:
             )
             # Ensure required attributes are set/exist
            
-            self.fast_tokenizer.action_dim = 7 # Set default if not in config
-            print("Setting action_dim  to 7.")
-           
-            self.fast_tokenizer.time_horizon = 1 # Set default if not in config
-            print("Setting time horizon to 1.")
+            self.fast_tokenizer.action_dim = 7  # Set default if not in config (7 DoF robot)
+            print("Setting action_dim to 7.")
+
+            # Automatically choose the correct time horizon based on the model variant.
+            # Long-horizon Nora models output 5 consecutive actions, whereas the
+            # standard variant outputs a single action.  If the model_id (or
+            # local path) contains the substring "long" we treat it as the
+            # former and set time_horizon to 5; otherwise we fall back to 1.
+            if "long" in model_id.lower():
+                self.fast_tokenizer.time_horizon = 5
+                print("Detected long-horizon Nora model – setting time_horizon to 5.")
+            else:
+                self.fast_tokenizer.time_horizon = 1
+                print("Setting time_horizon to 1.")
 
         except Exception as e:
             raise RuntimeError(
@@ -112,7 +121,7 @@ class Nora:
             # https://huggingface.co/openvla/openvla-7b-finetuned-libero-spatial/blob/main/dataset_statistics.json
 
             # Download the norm_stats locally (only downloads once; cached)
-            file_path = hf_hub_download(repo_id=repo_id, filename=filename, cache_dir="/data/yangyi/.cache")
+            file_path = hf_hub_download(repo_id=repo_id, filename=filename, cache_dir="/data/syh/.cache")
 
             # Load the JSON file
             with open(file_path, "r") as f:
@@ -227,8 +236,7 @@ class Nora:
             output_action,
         )
 
-        print("unnorm_actions:", unnorm_actions)
-
+        # print("unnorm_actions:", unnorm_actions)
         # unnorm_actions[..., -1] = np.where(unnorm_actions[..., -1] >= 0.0, 1.0, unnorm_actions[..., -1]) 
 
         

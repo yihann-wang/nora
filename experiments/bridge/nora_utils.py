@@ -14,7 +14,7 @@ class Nora:
     _ACTION_TOKEN_MIN = 151665
     _ACTION_TOKEN_MAX = 153712
 
-    cache_dir = "/data/yangyi/.cache"
+    cache_dir = "/data/syh/.cache"
 
     def __init__(
         self,
