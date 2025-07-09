@@ -1,0 +1,245 @@
+Task suite: libero_object
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 1...
+Caught exception: 'list' object has no attribute 'shape'
+Saved rollout MP4 at path ./rollouts/2025_07_07/2025_07_07-09_16_16--episode=1--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 1
+# successes: 0 (0.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 2...
+Caught exception: 'list' object has no attribute 'shape'
+Saved rollout MP4 at path ./rollouts/2025_07_07/2025_07_07-09_16_16--episode=2--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 2
+# successes: 0 (0.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 3...
+Caught exception: 'list' object has no attribute 'shape'
+Saved rollout MP4 at path ./rollouts/2025_07_07/2025_07_07-09_16_16--episode=3--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 3
+# successes: 0 (0.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 4...
+Caught exception: 'list' object has no attribute 'shape'
+Saved rollout MP4 at path ./rollouts/2025_07_07/2025_07_07-09_16_16--episode=4--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 4
+# successes: 0 (0.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 5...
+Caught exception: 'list' object has no attribute 'shape'
+Saved rollout MP4 at path ./rollouts/2025_07_07/2025_07_07-09_16_16--episode=5--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 5
+# successes: 0 (0.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 6...
+Caught exception: 'list' object has no attribute 'shape'
+Saved rollout MP4 at path ./rollouts/2025_07_07/2025_07_07-09_16_16--episode=6--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 6
+# successes: 0 (0.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 7...
+Caught exception: 'list' object has no attribute 'shape'
+Saved rollout MP4 at path ./rollouts/2025_07_07/2025_07_07-09_16_16--episode=7--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 7
+# successes: 0 (0.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 8...
+Caught exception: 'list' object has no attribute 'shape'
+Saved rollout MP4 at path ./rollouts/2025_07_07/2025_07_07-09_16_16--episode=8--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 8
+# successes: 0 (0.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 9...
+Caught exception: 'list' object has no attribute 'shape'
+Saved rollout MP4 at path ./rollouts/2025_07_07/2025_07_07-09_16_16--episode=9--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 9
+# successes: 0 (0.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 10...
+Caught exception: 'list' object has no attribute 'shape'
+Saved rollout MP4 at path ./rollouts/2025_07_07/2025_07_07-09_16_16--episode=10--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 10
+# successes: 0 (0.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 11...
+Caught exception: 'list' object has no attribute 'shape'
+Saved rollout MP4 at path ./rollouts/2025_07_07/2025_07_07-09_16_16--episode=11--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 11
+# successes: 0 (0.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 12...
+Caught exception: 'list' object has no attribute 'shape'
+Saved rollout MP4 at path ./rollouts/2025_07_07/2025_07_07-09_16_16--episode=12--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 12
+# successes: 0 (0.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 13...
+Caught exception: 'list' object has no attribute 'shape'
+Saved rollout MP4 at path ./rollouts/2025_07_07/2025_07_07-09_16_16--episode=13--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 13
+# successes: 0 (0.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 14...
+Caught exception: 'list' object has no attribute 'shape'
+Saved rollout MP4 at path ./rollouts/2025_07_07/2025_07_07-09_16_16--episode=14--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 14
+# successes: 0 (0.0%)
+
+Task: pick up the alphabet soup and place it in the basket
+Starting episode 15...
+Caught exception: 'list' object has no attribute 'shape'
+Saved rollout MP4 at path ./rollouts/2025_07_07/2025_07_07-09_16_16--episode=15--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4
+Success: False
+# episodes completed so far: 15
+# successes: 0 (0.0%)
+Current task success rate: 0.0
+Current total success rate: 0.0
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 1...
+Caught exception: 'list' object has no attribute 'shape'
+Saved rollout MP4 at path ./rollouts/2025_07_07/2025_07_07-09_16_16--episode=16--success=False--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: False
+# episodes completed so far: 16
+# successes: 0 (0.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 2...
+Caught exception: 'list' object has no attribute 'shape'
+Saved rollout MP4 at path ./rollouts/2025_07_07/2025_07_07-09_16_16--episode=17--success=False--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: False
+# episodes completed so far: 17
+# successes: 0 (0.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 3...
+Caught exception: 'list' object has no attribute 'shape'
+Saved rollout MP4 at path ./rollouts/2025_07_07/2025_07_07-09_16_16--episode=18--success=False--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: False
+# episodes completed so far: 18
+# successes: 0 (0.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 4...
+Caught exception: 'list' object has no attribute 'shape'
+Saved rollout MP4 at path ./rollouts/2025_07_07/2025_07_07-09_16_16--episode=19--success=False--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: False
+# episodes completed so far: 19
+# successes: 0 (0.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 5...
+Caught exception: 'list' object has no attribute 'shape'
+Saved rollout MP4 at path ./rollouts/2025_07_07/2025_07_07-09_16_16--episode=20--success=False--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: False
+# episodes completed so far: 20
+# successes: 0 (0.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 6...
+Caught exception: 'list' object has no attribute 'shape'
+Saved rollout MP4 at path ./rollouts/2025_07_07/2025_07_07-09_16_16--episode=21--success=False--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: False
+# episodes completed so far: 21
+# successes: 0 (0.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 7...
+Caught exception: 'list' object has no attribute 'shape'
+Saved rollout MP4 at path ./rollouts/2025_07_07/2025_07_07-09_16_16--episode=22--success=False--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: False
+# episodes completed so far: 22
+# successes: 0 (0.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 8...
+Caught exception: 'list' object has no attribute 'shape'
+Saved rollout MP4 at path ./rollouts/2025_07_07/2025_07_07-09_16_16--episode=23--success=False--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: False
+# episodes completed so far: 23
+# successes: 0 (0.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 9...
+Caught exception: 'list' object has no attribute 'shape'
+Saved rollout MP4 at path ./rollouts/2025_07_07/2025_07_07-09_16_16--episode=24--success=False--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: False
+# episodes completed so far: 24
+# successes: 0 (0.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 10...
+Caught exception: 'list' object has no attribute 'shape'
+Saved rollout MP4 at path ./rollouts/2025_07_07/2025_07_07-09_16_16--episode=25--success=False--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: False
+# episodes completed so far: 25
+# successes: 0 (0.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 11...
+Caught exception: 'list' object has no attribute 'shape'
+Saved rollout MP4 at path ./rollouts/2025_07_07/2025_07_07-09_16_16--episode=26--success=False--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: False
+# episodes completed so far: 26
+# successes: 0 (0.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 12...
+Caught exception: 'list' object has no attribute 'shape'
+Saved rollout MP4 at path ./rollouts/2025_07_07/2025_07_07-09_16_16--episode=27--success=False--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: False
+# episodes completed so far: 27
+# successes: 0 (0.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 13...
+Caught exception: 'list' object has no attribute 'shape'
+Saved rollout MP4 at path ./rollouts/2025_07_07/2025_07_07-09_16_16--episode=28--success=False--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: False
+# episodes completed so far: 28
+# successes: 0 (0.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 14...
+Caught exception: 'list' object has no attribute 'shape'
+Saved rollout MP4 at path ./rollouts/2025_07_07/2025_07_07-09_16_16--episode=29--success=False--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: False
+# episodes completed so far: 29
+# successes: 0 (0.0%)
+
+Task: pick up the cream cheese and place it in the basket
+Starting episode 15...
+Caught exception: 'list' object has no attribute 'shape'
+Saved rollout MP4 at path ./rollouts/2025_07_07/2025_07_07-09_16_16--episode=30--success=False--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4
+Success: False
+# episodes completed so far: 30
+# successes: 0 (0.0%)
+Current task success rate: 0.0
+Current total success rate: 0.0

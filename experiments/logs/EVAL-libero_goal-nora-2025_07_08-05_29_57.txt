@@ -1,0 +1,11 @@
+Task suite: libero_goal
+
+Task: open the middle drawer of the cabinet
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2025_07_08/2025_07_08-05_29_47--episode=1--success=False--task=open_the_middle_drawer_of_the_cabinet.mp4
+Success: False
+# episodes completed so far: 1
+# successes: 0 (0.0%)
+
+Task: open the middle drawer of the cabinet
+Starting episode 2...

@@ -1,0 +1,68 @@
+Task suite: libero_spatial
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Starting episode 1...
+Caught exception: The `unnorm_key` you chose is not in the set of available dataset statistics, please choose from: dict_keys(['austin_buds_dataset_converted_externally_to_rlds', 'austin_sailor_dataset_converted_externally_to_rlds', 'austin_sirius_dataset_converted_externally_to_rlds', 'bc_z', 'berkeley_autolab_ur5', 'berkeley_cable_routing', 'berkeley_fanuc_manipulation', 'bridge_orig', 'cmu_stretch', 'dlr_edan_shared_control_converted_externally_to_rlds', 'dobbe', 'fmb_dataset', 'fractal20220817_data', 'furniture_bench_dataset_converted_externally_to_rlds', 'iamlab_cmu_pickup_insert_converted_externally_to_rlds', 'jaco_play', 'kuka', 'nyu_franka_play_dataset_converted_externally_to_rlds', 'roboturk', 'stanford_hydra_dataset_converted_externally_to_rlds', 'taco_play', 'toto', 'ucsd_kitchen_dataset_converted_externally_to_rlds', 'utaustin_mutex', 'viola'])
+Saved rollout MP4 at path ./rollouts/2025_07_05/2025_07_05-09_00_56--episode=1--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 1
+# successes: 0 (0.0%)
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Starting episode 2...
+Caught exception: The `unnorm_key` you chose is not in the set of available dataset statistics, please choose from: dict_keys(['austin_buds_dataset_converted_externally_to_rlds', 'austin_sailor_dataset_converted_externally_to_rlds', 'austin_sirius_dataset_converted_externally_to_rlds', 'bc_z', 'berkeley_autolab_ur5', 'berkeley_cable_routing', 'berkeley_fanuc_manipulation', 'bridge_orig', 'cmu_stretch', 'dlr_edan_shared_control_converted_externally_to_rlds', 'dobbe', 'fmb_dataset', 'fractal20220817_data', 'furniture_bench_dataset_converted_externally_to_rlds', 'iamlab_cmu_pickup_insert_converted_externally_to_rlds', 'jaco_play', 'kuka', 'nyu_franka_play_dataset_converted_externally_to_rlds', 'roboturk', 'stanford_hydra_dataset_converted_externally_to_rlds', 'taco_play', 'toto', 'ucsd_kitchen_dataset_converted_externally_to_rlds', 'utaustin_mutex', 'viola'])
+Saved rollout MP4 at path ./rollouts/2025_07_05/2025_07_05-09_00_56--episode=2--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 2
+# successes: 0 (0.0%)
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Starting episode 3...
+Caught exception: The `unnorm_key` you chose is not in the set of available dataset statistics, please choose from: dict_keys(['austin_buds_dataset_converted_externally_to_rlds', 'austin_sailor_dataset_converted_externally_to_rlds', 'austin_sirius_dataset_converted_externally_to_rlds', 'bc_z', 'berkeley_autolab_ur5', 'berkeley_cable_routing', 'berkeley_fanuc_manipulation', 'bridge_orig', 'cmu_stretch', 'dlr_edan_shared_control_converted_externally_to_rlds', 'dobbe', 'fmb_dataset', 'fractal20220817_data', 'furniture_bench_dataset_converted_externally_to_rlds', 'iamlab_cmu_pickup_insert_converted_externally_to_rlds', 'jaco_play', 'kuka', 'nyu_franka_play_dataset_converted_externally_to_rlds', 'roboturk', 'stanford_hydra_dataset_converted_externally_to_rlds', 'taco_play', 'toto', 'ucsd_kitchen_dataset_converted_externally_to_rlds', 'utaustin_mutex', 'viola'])
+Saved rollout MP4 at path ./rollouts/2025_07_05/2025_07_05-09_00_56--episode=3--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 3
+# successes: 0 (0.0%)
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Starting episode 4...
+Caught exception: The `unnorm_key` you chose is not in the set of available dataset statistics, please choose from: dict_keys(['austin_buds_dataset_converted_externally_to_rlds', 'austin_sailor_dataset_converted_externally_to_rlds', 'austin_sirius_dataset_converted_externally_to_rlds', 'bc_z', 'berkeley_autolab_ur5', 'berkeley_cable_routing', 'berkeley_fanuc_manipulation', 'bridge_orig', 'cmu_stretch', 'dlr_edan_shared_control_converted_externally_to_rlds', 'dobbe', 'fmb_dataset', 'fractal20220817_data', 'furniture_bench_dataset_converted_externally_to_rlds', 'iamlab_cmu_pickup_insert_converted_externally_to_rlds', 'jaco_play', 'kuka', 'nyu_franka_play_dataset_converted_externally_to_rlds', 'roboturk', 'stanford_hydra_dataset_converted_externally_to_rlds', 'taco_play', 'toto', 'ucsd_kitchen_dataset_converted_externally_to_rlds', 'utaustin_mutex', 'viola'])
+Saved rollout MP4 at path ./rollouts/2025_07_05/2025_07_05-09_00_56--episode=4--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 4
+# successes: 0 (0.0%)
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Starting episode 5...
+Caught exception: The `unnorm_key` you chose is not in the set of available dataset statistics, please choose from: dict_keys(['austin_buds_dataset_converted_externally_to_rlds', 'austin_sailor_dataset_converted_externally_to_rlds', 'austin_sirius_dataset_converted_externally_to_rlds', 'bc_z', 'berkeley_autolab_ur5', 'berkeley_cable_routing', 'berkeley_fanuc_manipulation', 'bridge_orig', 'cmu_stretch', 'dlr_edan_shared_control_converted_externally_to_rlds', 'dobbe', 'fmb_dataset', 'fractal20220817_data', 'furniture_bench_dataset_converted_externally_to_rlds', 'iamlab_cmu_pickup_insert_converted_externally_to_rlds', 'jaco_play', 'kuka', 'nyu_franka_play_dataset_converted_externally_to_rlds', 'roboturk', 'stanford_hydra_dataset_converted_externally_to_rlds', 'taco_play', 'toto', 'ucsd_kitchen_dataset_converted_externally_to_rlds', 'utaustin_mutex', 'viola'])
+Saved rollout MP4 at path ./rollouts/2025_07_05/2025_07_05-09_00_56--episode=5--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 5
+# successes: 0 (0.0%)
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Starting episode 6...
+Caught exception: The `unnorm_key` you chose is not in the set of available dataset statistics, please choose from: dict_keys(['austin_buds_dataset_converted_externally_to_rlds', 'austin_sailor_dataset_converted_externally_to_rlds', 'austin_sirius_dataset_converted_externally_to_rlds', 'bc_z', 'berkeley_autolab_ur5', 'berkeley_cable_routing', 'berkeley_fanuc_manipulation', 'bridge_orig', 'cmu_stretch', 'dlr_edan_shared_control_converted_externally_to_rlds', 'dobbe', 'fmb_dataset', 'fractal20220817_data', 'furniture_bench_dataset_converted_externally_to_rlds', 'iamlab_cmu_pickup_insert_converted_externally_to_rlds', 'jaco_play', 'kuka', 'nyu_franka_play_dataset_converted_externally_to_rlds', 'roboturk', 'stanford_hydra_dataset_converted_externally_to_rlds', 'taco_play', 'toto', 'ucsd_kitchen_dataset_converted_externally_to_rlds', 'utaustin_mutex', 'viola'])
+Saved rollout MP4 at path ./rollouts/2025_07_05/2025_07_05-09_00_56--episode=6--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 6
+# successes: 0 (0.0%)
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Starting episode 7...
+Caught exception: The `unnorm_key` you chose is not in the set of available dataset statistics, please choose from: dict_keys(['austin_buds_dataset_converted_externally_to_rlds', 'austin_sailor_dataset_converted_externally_to_rlds', 'austin_sirius_dataset_converted_externally_to_rlds', 'bc_z', 'berkeley_autolab_ur5', 'berkeley_cable_routing', 'berkeley_fanuc_manipulation', 'bridge_orig', 'cmu_stretch', 'dlr_edan_shared_control_converted_externally_to_rlds', 'dobbe', 'fmb_dataset', 'fractal20220817_data', 'furniture_bench_dataset_converted_externally_to_rlds', 'iamlab_cmu_pickup_insert_converted_externally_to_rlds', 'jaco_play', 'kuka', 'nyu_franka_play_dataset_converted_externally_to_rlds', 'roboturk', 'stanford_hydra_dataset_converted_externally_to_rlds', 'taco_play', 'toto', 'ucsd_kitchen_dataset_converted_externally_to_rlds', 'utaustin_mutex', 'viola'])
+Saved rollout MP4 at path ./rollouts/2025_07_05/2025_07_05-09_00_56--episode=7--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 7
+# successes: 0 (0.0%)
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Starting episode 8...
+Caught exception: The `unnorm_key` you chose is not in the set of available dataset statistics, please choose from: dict_keys(['austin_buds_dataset_converted_externally_to_rlds', 'austin_sailor_dataset_converted_externally_to_rlds', 'austin_sirius_dataset_converted_externally_to_rlds', 'bc_z', 'berkeley_autolab_ur5', 'berkeley_cable_routing', 'berkeley_fanuc_manipulation', 'bridge_orig', 'cmu_stretch', 'dlr_edan_shared_control_converted_externally_to_rlds', 'dobbe', 'fmb_dataset', 'fractal20220817_data', 'furniture_bench_dataset_converted_externally_to_rlds', 'iamlab_cmu_pickup_insert_converted_externally_to_rlds', 'jaco_play', 'kuka', 'nyu_franka_play_dataset_converted_externally_to_rlds', 'roboturk', 'stanford_hydra_dataset_converted_externally_to_rlds', 'taco_play', 'toto', 'ucsd_kitchen_dataset_converted_externally_to_rlds', 'utaustin_mutex', 'viola'])
+Saved rollout MP4 at path ./rollouts/2025_07_05/2025_07_05-09_00_56--episode=8--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 8
+# successes: 0 (0.0%)
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Starting episode 9...
